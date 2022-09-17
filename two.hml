@@ -1,0 +1,21 @@
+00 2200 //NOT accumuulator (puts one in the acc)
+01 41ff //STORE acc to FF
+02 2600 //lsl
+03 2600 //lsl
+04 2600 //lsl
+05 11ff //SUB FF from ACC
+06 41fe //STOR ACC IN FE
+07 41fa //STOR ACC IN FA
+08 11ff //SUB FF from ACC
+09 41fe //STORE ACC IN FE
+0A 50fd //READ int into fd
+0B 40fd //LOAD fd into acc 
+0C 10fc //ADD FC and ACC
+0D 41FC //STORE ACC to FC
+0E 40fe //load fe to accumulator
+0F 3208 //branch to line 7 if the accumuulator is  > 0
+10 40fc //load fc to acc
+11 13fa
+12 41ef
+13 51ef
+14 FF00

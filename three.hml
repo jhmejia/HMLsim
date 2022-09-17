@@ -1,0 +1,16 @@
+00 50FE //read user input into FE
+01 40FE //LOAD FE into ACC
+02 310D //branch if negative to step 0c
+03 330D //branch if 0 to step 0c
+04 11ff SUB 1 from acc
+05 41fe //store the acc back into fe
+06 50cb //READ into cb
+07 40cb //LOAD cb into acc
+08 11cd //SUBTRACT cd from acc
+09 310b if negative skip the setting bit
+0A 40CB //LOAD cb into ACC
+0B 41cc STORE 
+0C 3001 //branch to line 3
+0D 51cc //PRINT THE LARGEST ONE
+0E FF00
+ff 0001
