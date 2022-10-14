@@ -1,14 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T14:00:20.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5BgK_SmWWZ9nkuZFSulD" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T14:38:24.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GmKfpsx9vLWHIkQhQvRF" version="20.4.0" type="github">
   <diagram id="kQTQezO8OtImguSnl6Z2" name="Page-1">
-    <mxGraphModel dx="782" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sJhRyvfI5YAXDB1IwleE-1" value="Instructor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="xiBqoMtqt4ZxVnP0tuVG-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="sJhRyvfI5YAXDB1IwleE-1" target="xiBqoMtqt4ZxVnP0tuVG-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sJhRyvfI5YAXDB1IwleE-2" value="Graduate Student" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="sJhRyvfI5YAXDB1IwleE-1" value="Instructor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sJhRyvfI5YAXDB1IwleE-2" value="Graduate Student" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiBqoMtqt4ZxVnP0tuVG-1" value="Local Industry-person" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiBqoMtqt4ZxVnP0tuVG-2" value="Faculty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiBqoMtqt4ZxVnP0tuVG-3" value="Office Hour" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xiBqoMtqt4ZxVnP0tuVG-4" value="Course" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xiBqoMtqt4ZxVnP0tuVG-5" value="Office Hour" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xiBqoMtqt4ZxVnP0tuVG-7" value="Instructs" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
